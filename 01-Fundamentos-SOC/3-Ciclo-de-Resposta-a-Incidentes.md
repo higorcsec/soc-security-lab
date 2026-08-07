@@ -8,7 +8,7 @@ Um SOC utiliza esse processo para transformar um alerta inicial em uma resposta 
 
 ---
 
-## 🎯 Objetivo da resposta a incidentes
+##  Objetivo da resposta a incidentes
 
 O principal objetivo é **reduzir o impacto de um incidente de segurança e restaurar o ambiente de forma segura**.
 
