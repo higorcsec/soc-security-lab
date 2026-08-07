@@ -1,4 +1,4 @@
-# 🔄 Ciclo de Resposta a Incidentes
+#  Ciclo de Resposta a Incidentes
 
 A resposta a incidentes é o processo utilizado por uma equipe de segurança para **identificar, analisar, conter e solucionar eventos que possam representar uma ameaça à organização**.
 
@@ -27,7 +27,7 @@ Uma resposta bem estruturada busca:
 
 ---
 
-# 🧭 Etapas do ciclo de resposta
+#  Etapas do ciclo de resposta
 
 Embora diferentes organizações possam utilizar metodologias próprias, o processo normalmente pode ser dividido em algumas etapas principais:
 
